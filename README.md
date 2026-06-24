@@ -2,18 +2,18 @@
 
 ## 📌 Project Overview
 
-Corporate Business & Recruitment Portal is a responsive web platform designed for managing business services, recruitment processes, appointment scheduling, and client engagement.
+Corporate Business & Recruitment Portal is a responsive web platform designed to manage business services, recruitment processes, appointment scheduling, and client engagement efficiently.
 
 ## 🚀 Features
 
 - Business Service Management
 - Recruitment Portal
-- Career Opportunities Section
+- Career Opportunities
 - Appointment Booking System
-- Client Engagement
+- Client Engagement Platform
 - Responsive Design
-- Modern UI/UX Interface
-- Multi-page Website Structure
+- Modern User Interface
+- Multi-Page Navigation
 
 ## 🛠️ Technologies Used
 
@@ -27,9 +27,20 @@ Corporate Business & Recruitment Portal is a responsive web platform designed fo
 
 🔗 https://corporate-business-recruitment-portal.netlify.app
 
-## 📂 Repository
+## 📂 GitHub Repository
 
 🔗 https://github.com/anjalipatel-tech/corporate-business-recruitment-portal
+
+## 📁 Project Structure
+
+├── css  
+├── js  
+├── img  
+├── lib  
+├── scss  
+├── services  
+├── Feature  
+└── HTML Pages
 
 ## 📧 Contact
 
@@ -41,4 +52,4 @@ Corporate Business & Recruitment Portal is a responsive web platform designed fo
 
 ## 📄 License
 
-This project is created for learning, portfolio, and demonstration purposes.
+This project is developed for portfolio, learning, and demonstration purposes.
